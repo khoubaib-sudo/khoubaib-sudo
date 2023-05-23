@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on a learning management system for my end-of-study project with a small startup call letaff
+I'm working on a learning management system for my end-of-study project with a small startup called letaff
 
 
 ## 🌐 Socials:
