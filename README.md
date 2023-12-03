@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GitHub UI clone<br>🌱 I’m currently learning Three.js<br>
+🔭 I’m currently working on Notion clone<br>🌱 I’m currently learning Three.js<br>
 
 
 ## 🌐 Socials:
